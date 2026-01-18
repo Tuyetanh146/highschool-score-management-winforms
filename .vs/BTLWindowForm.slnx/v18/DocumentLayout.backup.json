@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LaptrinhWinform\\BTLWindowForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|d:\\laptrinhwinform\\btlwindowform\\btlwindowform\\clsthaotaccsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|solutionrelative:btlwindowform\\clsthaotaccsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|D:\\LaptrinhWinform\\BTLWindowForm\\btlwindowform\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|solutionrelative:btlwindowform\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|D:\\LaptrinhWinform\\BTLWindowForm\\btlwindowform\\frmquanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|solutionrelative:btlwindowform\\frmquanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|D:\\LaptrinhWinform\\BTLWindowForm\\btlwindowform\\frmquanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|solutionrelative:btlwindowform\\frmquanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|D:\\LaptrinhWinform\\BTLWindowForm\\btlwindowform\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C823B370-C9F3-9CDC-7C7F-AC1587227467}|BTLWindowForm\\BTLWindowForm.csproj|solutionrelative:btlwindowform\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "BTLWindowForm\\FrmLogin.cs",
+              "ToolTip": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "BTLWindowForm\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:01:26.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsThaoTacCSDL.cs",
+              "DocumentMoniker": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\ClsThaoTacCSDL.cs",
+              "RelativeDocumentMoniker": "BTLWindowForm\\ClsThaoTacCSDL.cs",
+              "ToolTip": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\ClsThaoTacCSDL.cs",
+              "RelativeToolTip": "BTLWindowForm\\ClsThaoTacCSDL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:59:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmQuanlyHocSinh.cs [Design]",
+              "DocumentMoniker": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmQuanlyHocSinh.cs",
+              "RelativeDocumentMoniker": "BTLWindowForm\\FrmQuanlyHocSinh.cs",
+              "ToolTip": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmQuanlyHocSinh.cs [Design]",
+              "RelativeToolTip": "BTLWindowForm\\FrmQuanlyHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:59:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmQuanlyDiem.cs [Design]",
+              "DocumentMoniker": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmQuanlyDiem.cs",
+              "RelativeDocumentMoniker": "BTLWindowForm\\FrmQuanlyDiem.cs",
+              "ToolTip": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmQuanlyDiem.cs [Design]",
+              "RelativeToolTip": "BTLWindowForm\\FrmQuanlyDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:58:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "BTLWindowForm\\FrmMenu.cs",
+              "ToolTip": "D:\\LaptrinhWinform\\BTLWindowForm\\BTLWindowForm\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "BTLWindowForm\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:58:48.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
