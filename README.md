@@ -1,40 +1,28 @@
-# Hệ thống quản lý điểm học sinh THPT
+# High School Student Grade Management System
 
-## 📌 Giới thiệu
-Đây là dự án **Bài tập lớn WinForm** với đề tài **Hệ thống quản lý điểm học sinh THPT**,  
-được xây dựng nhằm hỗ trợ giáo viên và nhà trường trong việc quản lý thông tin học sinh, lớp học, môn học và điểm số một cách trực quan và hiệu quả.
+## 📌 Introduction
+This is a WinForms course project on the topic of **High School Student Grade Management System**, built to support teachers and schools in managing student information, classes, subjects, and grades in a clear and efficient way.
+The project was developed as part of the Windows Forms Programming (C#) course.
 
-Dự án được thực hiện trong quá trình học tập môn **Lập trình Windows Form (C#)**.
+## 🎯 Key Features
+- Student management (add, edit, delete, search)
+- Class management
+- Subject management
+- Grade entry and management
+- View student lists and academic results
+- Intuitive, easy-to-use WinForms interface
 
----
+## 🛠 Technologies Used
+- **Language:** C#
+- **Platform:** Windows Forms (.NET)
+- **IDE:** Visual Studio
+- **Application type:** Desktop Application
 
-## 🎯 Chức năng chính
-- Quản lý học sinh (thêm, sửa, xóa, tìm kiếm)
-- Quản lý lớp học
-- Quản lý môn học
-- Nhập và quản lý điểm học sinh
-- Xem danh sách và kết quả học tập của học sinh
-- Giao diện WinForm trực quan, dễ sử dụng
+## 👤 Role
+- Individual project (self-developed)
+- Designed the interface and built all features independently
 
----
-
-## 🛠 Công nghệ sử dụng
-- Ngôn ngữ: **C#**
-- Nền tảng: **Windows Forms (.NET)**
-- IDE: **Visual Studio**
-- Kiểu ứng dụng: **Desktop Application**
-
----
-
-## 👤 Vai trò
-- Dự án cá nhân (tự thực hiện)
-- Tự thiết kế giao diện và xây dựng chức năng
-
----
-
-## 🚀 Hướng dẫn chạy chương trình
-1. Clone repository về máy:
-   ```bash
-   git clone https://github.com/Tuyetanh146/BTL1.git
-2. Mở file .sln bằng Visual Studio
-3 . Build và chạy chương trình
+## 🚀 How to Run
+1. Clone the repository: git clone https://github.com/Tuyetanh146/BTL1.git
+2. Open the `.sln` file with Visual Studio
+3. Build and run the program
